@@ -1,16 +1,24 @@
-## Hi there 👋
+# Ben Vessalipour
 
-<!--
-**benvessalipour/benvessalipour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Electrical Engineering Student from Munich with interest in control theory, signal processing and machine learning. The goal is to apply these concepts to real-world engineering systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Programming Languages
+- Python
+- C++
+- MATLAB
+
+## SW Tools
+- Visual Studio Code
+- Git
+- Docker
+
+## Engineering
+- Simulink
+- Altium
+- LTSpice
+
+## Machine Learning
+- TensorFlow
+- Scikit
